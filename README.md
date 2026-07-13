@@ -6,6 +6,8 @@ I work across native Swift/SwiftUI/UIKit, real-time and offline systems, Rust sh
 
 Open to remote Senior/Lead iOS and hands-on mobile platform roles, especially in FinTech, trading, AI-enabled products, and risk-sensitive systems.
 
+**[Engineering portfolio](https://jimbokl.github.io/)** · [PDF résumé](https://jimbokl.github.io/downloads/Dmitriy_Motorin_Senior_iOS_Resume.pdf) · [Email](mailto:mmotorin@gmail.com)
+
 ## Selected engineering work
 
 | Project | What it demonstrates | Stack |
@@ -33,4 +35,4 @@ Private code, credentials, customer data, and proprietary screenshots are intent
 - Core ML/ONNX, OCR confidence, evidence provenance, RAG guardrails
 - FinTech state correctness, stale data, integer money, idempotency, release safety
 
-[LinkedIn](https://www.linkedin.com/in/dmotorin) · [MetaCAD](https://metacad.io) · [Email](mailto:mmotorin@gmail.com)
+[Portfolio](https://jimbokl.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmotorin) · [MetaCAD](https://metacad.io) · [Email](mailto:mmotorin@gmail.com)
