@@ -1,38 +1,42 @@
 # Dmitriy Motorin
 
-Senior iOS engineer building mobile and FinTech products since 2014.
+AI/ML engineering lead and hands-on builder with 12+ years of production engineering across FinTech, trading, agentic systems, and mobile platforms.
 
-I work across native Swift/SwiftUI/UIKit, real-time and offline systems, Rust shared cores through UniFFI/CoreFFI, on-device ML, OCR/document intelligence, and retrieval/agent automation. I care about correctness at system boundaries, measurable failure handling, and shipping the whole product rather than stopping at a demo.
+I turn ML and LLM prototypes into reliable products: data and evaluation, architecture, deployment, observability, risk controls, and iteration. My strongest evidence sits at the intersection of grounded RAG and AI agents, financial ML, and on-device intelligence.
 
-Open to remote Senior/Lead iOS and hands-on mobile platform roles, especially in FinTech, trading, AI-enabled products, and risk-sensitive systems.
+Open to remote AI/ML Engineering Lead, Applied AI Lead, Head of AI, and ML Engineering Manager roles—especially in FinTech, trading, AI-enabled platforms, and data-intensive products.
 
-**[Engineering portfolio](https://jimbokl.github.io/)** · [PDF résumé](https://jimbokl.github.io/downloads/Dmitriy_Motorin_Senior_iOS_Resume.pdf) · [Email](mailto:mmotorin@gmail.com)
+**[AI/ML portfolio](https://jimbokl.github.io/)** · [LinkedIn](https://www.linkedin.com/in/dmotorin/) · [Email](mailto:mmotorin@gmail.com)
 
-## Selected engineering work
+## Selected public proof
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| [FinStreamKit](https://github.com/jimbokl/FinStreamKit) | Public-safe real-time finance patterns: actor-owned quote state, stale-event handling, integer money, deterministic order-risk policy, cancellation, snapshots, tests and CI | Swift 6, Swift Package Manager, XCTest |
-| [EvidencePipelineKit](https://github.com/jimbokl/EvidencePipelineKit) | Local-first PDFKit/Vision OCR with confidence, provenance, contradiction gates and grounded context for downstream RAG | Swift 6, PDFKit, Vision, XCTest |
-| [Cortex](https://github.com/jimbokl/LLMCORTEX) | Local-first pre-reasoning memory and automation for coding agents, with deterministic rules, TF-IDF fallback, audit logs, benchmarks and human-approved learning | Python, SQLite, RAG/agent workflows |
-| [SOLBOT](https://github.com/jimbokl/SOLBOT) | Financial ML research pipeline with microstructure features, RF/BiGRU ensemble, ONNX inference and explicit trading-risk disclaimers | Python, scikit-learn, ONNX Runtime |
-| [MetaCAD benchmarks](https://github.com/metacadio/benchmarks) | Reproducible engineering validation cases and deterministic technical calculations | Rust/WASM, numerical validation |
-| [GoldGRU](https://github.com/jimbokl/GoldGRU) | Time-series research and honest model-validation constraints for XAU/USD | Python, PyTorch, BiGRU/attention |
+| [LLMCORTEX](https://github.com/jimbokl/LLMCORTEX) | Local-first pre-reasoning risk tripwires for coding agents: deterministic matching, composable risk signals, audit logs, PyPI packaging, and 219 passing tests | Python, agents, safety, retrieval |
+| [GoldGRU](https://github.com/jimbokl/GoldGRU) | Inspectable financial time-series research with BiGRU/self-attention, 18 selected features, walk-forward validation, and explicit overfitting controls | Python, PyTorch, scikit-learn |
+| [EvidencePipelineKit](https://github.com/jimbokl/EvidencePipelineKit) | PDFKit/Vision OCR with confidence and provenance, deterministic retrieval, contradiction gates, citations, and explicit human-review outcomes | Swift 6, Vision, PDFKit, grounded RAG |
+| [FinStreamKit](https://github.com/jimbokl/FinStreamKit) | Production-oriented real-time finance patterns: actor-owned state, stale-event handling, integer money, deterministic risk rules, cancellation, tests, and CI | Swift 6, concurrency, XCTest |
+| [MetaCAD benchmarks](https://github.com/metacadio/benchmarks) | Reproducible engineering validation cases and deterministic numerical calculations | Rust/WASM, validation, CI |
 
 ## Private work I can discuss in an interview
 
-- Native SwiftUI energy product backed by a 40-module Rust core, typed CoreFFI boundary, Core ML/ONNX delivery, and 223 core unit/integration tests.
-- Swift PDFKit/Vision OCR pipeline with text-layer fast path, scan fallback, confidence/provenance output, deterministic extraction, caching, retries, human review, and downstream RAG guardrails.
-- AVFoundation camera PPG pipeline with real-time DSP, quality gates, stabilization/hysteresis, SwiftData evidence, and physical-device validation.
+- Grounded RAG and agentic workflows with source provenance, contradiction gates, retries, validation, auditability, and explicit human review.
+- Financial ML and trading research with microstructure features, leakage-resistant validation, realistic execution assumptions, and fail-closed risk controls.
+- Native SwiftUI product backed by a 40-module Rust core, typed CoreFFI boundary, Core ML/ONNX delivery, and 223 core unit/integration tests.
+- AVFoundation camera PPG pipeline with real-time DSP, quality gates, stabilization/hysteresis, and physical-device validation.
 
 Private code, credentials, customer data, and proprietary screenshots are intentionally excluded. I can walk through architecture, trade-offs, failure modes, and selected sanitized code in a controlled interview.
 
-## Engineering themes
+## What I lead
 
-- Swift concurrency, actors, `AsyncStream`, cancellation, deterministic tests
-- SwiftUI/UIKit interoperability, AVFoundation, Vision, PDFKit, SwiftData, Keychain
-- Rust-to-Swift ownership, DTO boundaries, error mapping, XCFramework packaging
-- Core ML/ONNX, OCR confidence, evidence provenance, RAG guardrails
-- FinTech state correctness, stale data, integer money, idempotency, release safety
+- AI product and engineering roadmaps tied to measurable product, model, risk, and business outcomes
+- LLM/RAG evaluation, grounding, guardrails, observability, and production readiness
+- Python, PyTorch, scikit-learn, ONNX, APIs, data pipelines, SQL, CI/CD, and operational controls
+- Core ML/ONNX, OCR/document intelligence, Swift/Rust boundaries, and private offline workflows
+- Cross-functional delivery across ML, backend, mobile, product, design, QA, and release
+
+## Current study
+
+Master’s candidate in **Philosophy of Artificial Intelligence** at Ufa University of Science and Technology (2026–2028). Focus areas include AI methodology, philosophy of mind, knowledge engineering, neural networks and machine learning, and the societal risks of intelligent systems.
 
 [Portfolio](https://jimbokl.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmotorin) · [MetaCAD](https://metacad.io) · [Email](mailto:mmotorin@gmail.com)
