@@ -6,7 +6,7 @@ I turn ML and LLM prototypes into reliable products: data and evaluation, archit
 
 Open to remote AI/ML Engineering Lead, Applied AI Lead, Head of AI, and ML Engineering Manager roles—especially in FinTech, trading, AI-enabled platforms, and data-intensive products.
 
-**[AI/ML portfolio](https://jimbokl.github.io/)** · [LinkedIn](https://www.linkedin.com/in/dmotorin/) · [Email](mailto:mmotorin@gmail.com)
+**[AI/ML portfolio](https://jimbokl.github.io/)** · [AI/ML resume](https://jimbokl.github.io/downloads/Dmitriy_Motorin_Applied_AI_ML_Lead_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/dmotorin/) · [Email](mailto:mmotorin@gmail.com)
 
 ## Selected public proof
 
@@ -39,4 +39,4 @@ Private code, credentials, customer data, and proprietary screenshots are intent
 
 Master’s candidate in **Philosophy of Artificial Intelligence** at Ufa University of Science and Technology (2026–2028). Focus areas include AI methodology, philosophy of mind, knowledge engineering, neural networks and machine learning, and the societal risks of intelligent systems.
 
-[Portfolio](https://jimbokl.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmotorin) · [MetaCAD](https://metacad.io) · [Email](mailto:mmotorin@gmail.com)
+[Portfolio](https://jimbokl.github.io/) · [AI/ML resume](https://jimbokl.github.io/downloads/Dmitriy_Motorin_Applied_AI_ML_Lead_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/dmotorin) · [MetaCAD](https://metacad.io) · [Email](mailto:mmotorin@gmail.com)
